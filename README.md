@@ -6,4 +6,4 @@ It's available everywhere.
 
 It's made to be shared.
 
-There's private repository for ressources I can't share.
+There's a private repository for ressources I can't share.
