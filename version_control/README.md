@@ -10,6 +10,12 @@
 
 ## Mercurial
 
+### Documentation
+
+[Extension Histedit](https://www.mercurial-scm.org/wiki/HisteditExtension)
+
+[Extension Rebase](https://www.mercurial-scm.org/wiki/RebaseExtension)
+
 ## SVN
 
 Don't use SVN.
