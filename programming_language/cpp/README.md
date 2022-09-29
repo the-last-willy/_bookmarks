@@ -1,3 +1,5 @@
+[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
 # Blogs
 
 [Herb Sutter - Sutter’s Mill](https://herbsutter.com/)
