@@ -12,6 +12,12 @@
 
 # Talks
 
+## Philosophy
+
+[Bjarne Stroustrup - C++ in Constrained Environments (CppCon 2022)](https://www.youtube.com/watch?v=2BuJjaGuInI)
+
+## ...
+
 [Herb Sutter - Can C++ be 10x Simpler & Safer?](https://www.youtube.com/watch?v=ELeZAKCN4tY)
 
 # More
